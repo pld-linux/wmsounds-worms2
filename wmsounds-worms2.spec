@@ -5,7 +5,7 @@ Version:	1
 Release:	1
 Group:		X11/Window Managers/Tools
 Group(pl):	X11/Zarz±dcy Okien/Narzêdzia
-Copyright:	GPL
+License:	GPL
 Source:		ftp://shadowmere.student.utwente.nl/pub/WindowMaker/worms2sounds.tar.gz
 Requires:	WindowMaker
 BuildArch:	noarch
