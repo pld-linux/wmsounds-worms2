@@ -9,7 +9,7 @@ Copyright:	GPL
 Source:		ftp://shadowmere.student.utwente.nl/pub/WindowMaker/worms2sounds.tar.gz
 Requires:	WindowMaker
 BuildArch:	noarch
-BuildRoot:   	/tmp/%{name}-%{version}-root
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define 	_prefix 	/usr/X11R6
 
