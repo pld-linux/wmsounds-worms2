@@ -2,12 +2,12 @@ Summary:	Worms2 sounds for WindowMaker
 Summary(pl):	D¼wiêki z Worms2 dla WindowMakera
 Name:		wmsounds-worms2
 Version:	2
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Window Managers/Tools
 Source0:	ftp://shadowmere.student.utwente.nl/pub/WindowMaker/worms2sounds.tar.gz
 # Source0-md5:	ba753aac69aca1e4fd11430ecb46d20f
-Requires:	WindowMaker
+Requires:	wmsoundserver
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
