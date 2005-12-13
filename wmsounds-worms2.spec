@@ -35,4 +35,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %{_datadir}/WindowMaker/Sounds/*.wav
-%config %verify(not size mtime md5) %{_datadir}/WindowMaker/SoundSets/Worms2
+%config %verify(not md5 mtime size) %{_datadir}/WindowMaker/SoundSets/Worms2
