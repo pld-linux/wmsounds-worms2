@@ -1,5 +1,5 @@
 Summary:	Worms2 sounds for WindowMaker
-Summary(pl.UTF-8):   Dźwięki z Worms2 dla WindowMakera
+Summary(pl.UTF-8):	Dźwięki z Worms2 dla WindowMakera
 Name:		wmsounds-worms2
 Version:	2
 Release:	4
