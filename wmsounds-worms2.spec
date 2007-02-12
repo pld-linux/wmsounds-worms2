@@ -1,5 +1,5 @@
 Summary:	Worms2 sounds for WindowMaker
-Summary(pl):	D¼wiêki z Worms2 dla WindowMakera
+Summary(pl.UTF-8):   DÅºwiÄ™ki z Worms2 dla WindowMakera
 Name:		wmsounds-worms2
 Version:	2
 Release:	4
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A bunch of standard Worms 2 sounds for WindowMaker.
 
-%description -l pl
-Zestaw d¼wiêków z Worms 2 dla WindowMakera.
+%description -l pl.UTF-8
+Zestaw dÅºwiÄ™kÃ³w z Worms 2 dla WindowMakera.
 
 %prep
 %setup -q -c
